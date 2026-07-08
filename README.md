@@ -1,0 +1,1 @@
+# Excel_VBA_Gerador_de_Cartas_Word
